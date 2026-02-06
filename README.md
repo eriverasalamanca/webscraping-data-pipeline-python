@@ -1,4 +1,4 @@
-# Automated Data Ingestion & Processing Pipeline (Python)
+# Automated Data Scraping & Processing Pipeline (Python)
 
 ## Overview
 Automated data pipeline that extracts product data from e-commerce sources, processes and normalizes the data, and prepares it for downstream analytics and reporting.
