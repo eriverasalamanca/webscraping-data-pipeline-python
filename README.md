@@ -14,10 +14,10 @@ Automated data pipeline that extracts product data from e-commerce sources, proc
 1. Data extraction from web sources
 2. Data validation and cleaning
 3. Transformation and enrichment
-4. Structured output (CSV / JSON) ready for BI tools
+4. Structured output (CSV) ready for BI or any data tools
 
 ## Use Case
-This project simulates a real-world data ingestion pipeline commonly used in analytics and BI environments for pricing analysis, promotions monitoring, and reporting automation.
+This project a real-world data scraping pipeline commonly used in analytics and BI environments for pricing analysis, promotions monitoring, and reporting automation.
 
 ## Next Steps
 - Load data into a cloud data warehouse (Snowflake / BigQuery)
