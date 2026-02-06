@@ -1,4 +1,3 @@
-
 import subprocess
 import time
 import os
@@ -32,17 +31,9 @@ LOG_GENERAL = os.path.join(LOG, "log_ejecucion.txt")
 CHAT_NOTIFICACION = "3342470959"
 
 scripts = [
-    "Scraping Productivo Selectivo - Especiales.py",
-    "Scraping Productivo - Page 2.py",
-    "Scraping Productivo.py",
-    # "Scraping Productivo Selectivo - Perfumeria.py",
-    # "Scraping Productivo Selectivo - Moda Belleza.py",
-    # "Scraping Productivo Selectivo - Muebles.py",
-    # "Scraping Productivo Selectivo - Hogar.py",
-    # "Scraping Productivo Selectivo - Tecnologia.py"
-    # "Scraping Productivo Selectivo - Juguetes.py",
-    # "Scraping Productivo Selectivo - Herramientas.py",
-    # "Scraping Productivo Selectivo - Belleza y Cuidado Personal.py",
+    "scraping_specials.py",
+    "scraping_page2.py",
+    "scraping_page.py",
 ]
 
 # ----------------------------------------------------------
